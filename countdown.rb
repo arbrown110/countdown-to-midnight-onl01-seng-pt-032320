@@ -1,7 +1,7 @@
 def countdown
-  countdown=12
-  while countdown <0
-    puts "#{countdown} SECOND(S)!"
+  
+  while x <0
+    puts "#{x} SECOND(S)!"
     countdown -= 0
       break
   end 
