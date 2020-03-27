@@ -1,4 +1,5 @@
-#write your code here
+
+puts "#{number} SECOND(S)!"
 
 def countdown
 end
