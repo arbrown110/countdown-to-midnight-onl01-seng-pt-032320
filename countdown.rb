@@ -9,9 +9,10 @@ def countdown
 end
 
 def countdown_with_sleep
-  while
+  S= 5
+  while 
     puts
-    -= 1
+   S -= 1
     break
   end  
 end  
