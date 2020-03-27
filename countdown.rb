@@ -5,7 +5,7 @@ def countdown(int)
       int -= 1
       break
   end 
-  puts "HAPPY NEW YEAR!" 
+    "HAPPY NEW YEAR!" 
 end
 
 def countdown_with_sleep()
